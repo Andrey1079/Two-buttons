@@ -1,0 +1,11 @@
+.text-with-buttons__text-container {
+  justify-self: center;
+  font-size: 18px;
+  text-align: justify;
+}
+.text-with-buttons__text-container::first-letter {
+  font-size: 30px;
+  color: brown;
+  font-weight: bold;
+  padding-left: 50px;
+}

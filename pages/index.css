@@ -1,0 +1,13 @@
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/text-with-buttons/text-with-buttons.css);
+@import url(../blocks/page/__main/page__main.css);
+@import url(../blocks/text-with-buttons/__button/text-with-buttons__button.css);
+@import url(../blocks/text-with-buttons/__button/_active/text-with-buttons__button_active.css);
+@import url(../blocks/text-with-buttons/__text-container/text-with-buttons__text-container.css);
+@import url(../blocks/text-with-buttons/__text-container/_hide/text-with-buttons__text-contsiner_hide.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

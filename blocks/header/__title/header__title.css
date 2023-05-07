@@ -1,0 +1,8 @@
+.header__title {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  vertical-align: text-bottom;
+  flex-grow: 1;
+  font-size: 40px;
+}

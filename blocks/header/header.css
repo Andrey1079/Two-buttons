@@ -1,0 +1,9 @@
+.header {
+  width: calc(100%-16px);
+  min-height: 150px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+  background-color: rgba(162, 161, 160, 0.095);
+}

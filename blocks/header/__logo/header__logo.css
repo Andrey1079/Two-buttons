@@ -1,0 +1,24 @@
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(45deg);
+  }
+
+  75% {
+    transform: rotate(-45deg);
+  }
+  100% {
+    transform: rotate(-0deg);
+  }
+}
+
+.header__logo {
+  margin: 20px 0 20px 20px;
+  height: 150px;
+  border: double 15px transparent;
+  border-radius: 50%;
+  background-image: radial-gradient(#0078ff 10%, #f4f4f4 80%);
+  animation: rotation 5s 1;
+}

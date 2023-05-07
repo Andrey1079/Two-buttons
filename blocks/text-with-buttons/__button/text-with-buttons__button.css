@@ -1,0 +1,18 @@
+.text-with-buttons__button {
+  background-color: transparent;
+  justify-self: center;
+  height: 100px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background-color: blue;
+  border: 5px solid gray;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: 30px;
+  color: beige;
+}
+
+.text-with-buttons__button:active {
+  border: 10px solid gray;
+  font-size: 26px;
+}

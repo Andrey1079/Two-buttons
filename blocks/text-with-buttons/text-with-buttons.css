@@ -1,0 +1,7 @@
+.text-with-buttons {
+  width: calc(100%-16px);
+  min-height: 150px;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-content: center;
+}
