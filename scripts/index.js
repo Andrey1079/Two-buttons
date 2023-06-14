@@ -21,3 +21,5 @@ buttonTwo.addEventListener("click", () => {
 function setDataset(item) {
   return item.dataset.state === "on" ? (item.dataset.state = "off") : (item.dataset.state = "on");
 }
+
+getComputedStyle(document.querySelector(".header__logo")).getPropertyValue("margin");
